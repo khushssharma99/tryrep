@@ -1,5 +1,6 @@
 module.exports={
     name:"a",
     rollno:"1",
-    branch:"cse"
+    branch:"cse",
+    colg:"abc"
 }
